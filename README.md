@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Lucas Munarolo</h1>
 <h3 align="center">Um estudante de Análise e Desenvolvimento de Sistemas do Brasil</h3>
 
-- 🔭 Eu atualmente trabalho no **Itaú Unibanco**
+- 🔭 Eu atualmente trabalho na **Sicredi** como **Estagiário de BI**
 
 - 🌱 Eu estou estudando **Análise e manipulação de dados com Python e R, Machine Learning, Deep Learning, Business Inteligence**
 
