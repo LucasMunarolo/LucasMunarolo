@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Lucas Munarolo</h1>
-<h3 align="center">Um estudante de Análise e Desenvolvimento de Sistemas do Brasil</h3>
+<h3 align="center">Sou formado em Análise e Desenvolvimento de Sistemas e moro no Brasil</h3>
 
-- 🔭 Eu atualmente trabalho na **Sicredi Força dos Ventos** como **Assistente de BI**
+- 🔭 Eu atualmente trabalho na **Sicredi Força dos Ventos** como **Analista de Desenvolvimento de Sistemas**
 
 - 🌱 Eu estou estudando **Análise e manipulação de dados com Python e R, Machine Learning, Deep Learning, Business Inteligence**
 
